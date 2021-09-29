@@ -1,3 +1,3 @@
 # WebApps-Assignment-5 Starter Code
 
-[Hosted At](https://github.com/44-563-WebApps-F21/webapps-s21-assignment-5-SravaniGangula/blob/main/animals.html)
+[Hosted At](https://44-563-webapps-f21.github.io/webapps-s21-assignment-5-SravaniGangula/animals.html)
